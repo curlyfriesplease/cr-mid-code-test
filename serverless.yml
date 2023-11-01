@@ -11,13 +11,6 @@ provider:
   versionFunctions: false
 
 functions:
-  postcode:
-    handler: handler.postcode
-    events:
-      - http:
-          path: postcode/{postCode}
-          method: get
-          cors: true
 
 plugins:
   - serverless-mocha-plugin
