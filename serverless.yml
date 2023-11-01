@@ -11,6 +11,7 @@ provider:
   versionFunctions: false
 
 functions:
+  - ${file(./serverless/functions/postcode.yml)}
 
 plugins:
   - serverless-mocha-plugin
