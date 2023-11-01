@@ -41,7 +41,7 @@
     "webpack-node-externals": "^1.6.0"
   },
   "dependencies": {
-    "@comicrelief/lambda-wrapper": "^0.0.71",
+    "@comicrelief/lambda-wrapper": "^1.10.2",
     "request": "^2.88.0",
     "request-promise": "^4.2.5"
   }
