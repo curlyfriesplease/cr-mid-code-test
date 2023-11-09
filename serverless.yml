@@ -21,5 +21,7 @@ plugins:
 custom:
   serverless-offline:
     httpPort: 3001
-  webpackIncludeModules:
-    packagePath: './package.json'
+
+  webpack:
+    packager: yarn
+    includeModules: true
