@@ -1,23 +1,17 @@
 service: serverless-code-test
 
-frameworkVersion: ">=2.0.0"
+frameworkVersion: "^3"
 
 provider:
   name: aws
-  runtime: nodejs14.x
+  runtime: nodejs18.x
   memorySize: 128
   timeout: 60
   stage: dev
   versionFunctions: false
 
 functions:
-  postcode:
-    handler: handler.postcode
-    events:
-      - http:
-          path: postcode/{postCode}
-          method: get
-          cors: true
+  - ${file(./serverless/functions/postcode.yml)}
 
 plugins:
   - serverless-mocha-plugin
@@ -26,8 +20,8 @@ plugins:
 
 custom:
   serverless-offline:
-    port: 3001
-    babelOptions:
-      presets: ["env"]
-  webpackIncludeModules:
-    packagePath: './package.json'
+    httpPort: 3001
+
+  webpack:
+    packager: yarn
+    includeModules: true

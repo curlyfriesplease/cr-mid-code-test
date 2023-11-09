@@ -1,0 +1,7 @@
+postcode:
+  handler: handler.postcode
+  events:
+    - http:
+        path: postcode/{postCode}
+        method: get
+        cors: true

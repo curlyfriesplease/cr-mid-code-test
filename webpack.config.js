@@ -1,14 +1,14 @@
-const nodeExternals = require('webpack-node-externals');
-const slsw = require('serverless-webpack');
 const path = require('path');
+
+const slsw = require('serverless-webpack');
+const nodeExternals = require('webpack-node-externals');
 
 module.exports = {
   entry: slsw.lib.entries,
+  mode: process.env.WEBPACK_MODE || 'production',
   devtool: 'source-map',
   target: 'node',
-  externals: [nodeExternals({
-    modulesFromFile: true,
-  })],
+  externals: [nodeExternals({ modulesFromFile: true })],
   performance: {
     hints: false,
   },
