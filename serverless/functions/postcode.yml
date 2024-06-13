@@ -2,6 +2,6 @@ postcode:
   handler: handler.postcode
   events:
     - http:
-        path: postcode/{postCode}
+        path: postcode/{postCodeParamString}
         method: get
         cors: true

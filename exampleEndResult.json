@@ -1,0 +1,317 @@
+{
+  "data": {
+    "displayResponse": {
+      "postcoderesponse": [
+        {
+          "address_id": 35183357,
+          "Line1": "METROPOLIS MOTORCYCLES LTD",
+          "Line2": "59-62 ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 35183387,
+          "Line1": "CHARIOTS HEALTH CLUB LTD",
+          "Line2": "63-64 ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 36844161,
+          "Line1": "ASHTAR LOUNGE",
+          "Line2": "80-81 ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "ELDERLY ACCOMMODATION COUNSEL",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "LINK FINANCIAL LTD",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "HARRIS HILL LTD",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "PURE I P LTD",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "CONTROL E S C LTD",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "LONDON PHILHARMONIC ORCHESTRA LTD",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "CICELY NORTHCOTE TRUST",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "WILDLIFE & COUNTRYSIDE LINK",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "ENERGY INDUSTRIES COUNCIL",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "JOSEPH ROWNTREE FOUNDATION",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "FERROVIAL AGROMAN LAING O'ROURKE",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "COMIC RELIEF",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "MARIE CURIE CANCER CARE",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "REACH",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "RETHINK",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "CARE INTERNATIONAL UK",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "FULBRIGHT COMMISSION",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "INCLUSION",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "THE DYSTONIA SOCIETY",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "VEOLIA E S UK LTD",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "MACFARLANE TELESYSTEMS LTD",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 30105722,
+          "Line1": "D T G TESTING LTD",
+          "Line2": "CAMELFORD HOUSE 87-90",
+          "Line3": "ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 38544057,
+          "Line1": "66 ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 38544056,
+          "Line1": "67 ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 38611075,
+          "Line1": "FANTAZIA BAR",
+          "Line2": "69 ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 36841288,
+          "Line1": "BATHSTORE LTD",
+          "Line2": "70 ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 35183341,
+          "Line1": "THE LONDON KITCHEN STORE",
+          "Line2": "71 ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 35165818,
+          "Line1": "PICO BAR",
+          "Line2": "74 ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        },
+        {
+          "address_id": 35238956,
+          "Line1": "G C H Q",
+          "Line2": "85 ALBERT EMBANKMENT",
+          "posttown": "LONDON",
+          "postcode": "SE1 7TP",
+          "Latitude": -0.123739,
+          "Longitude": 51.487955
+        }
+      ]
+    }
+  },
+  "message": "ok"
+}
